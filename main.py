@@ -7,8 +7,5 @@ for num in data:
     _, code, _, _, _  = num.split()
     codes.add(code)
 print(codes)
-<<<<<<< HEAD
 print("salom")
-=======
 print("Hello")
->>>>>>> front
