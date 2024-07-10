@@ -7,3 +7,4 @@ for num in data:
     _, code, _, _, _  = num.split()
     codes.add(code)
 print(codes)
+print("salom")
